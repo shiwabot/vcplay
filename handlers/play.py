@@ -107,7 +107,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                         text="Channel",
-                        url="https://t.me/Infinity_BOTs")
+                        url="https://t.me/Anie_news")
                    
                 ]
             ]
@@ -133,7 +133,7 @@ async def play(_, message: Message):
                     [
                         InlineKeyboardButton(
                             text="Channel",
-                            url=f"https://t.me/Infinity_Bots")
+                            url=f"https://t.me/anie_news")
 
                     ]
                 ]
